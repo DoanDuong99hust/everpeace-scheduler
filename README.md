@@ -1,4 +1,4 @@
-# k8s-scheduler-extender-example
+# Everpeace-scheduler
 This is an example of [Kubernetes Scheduler Extender](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/scheduling/scheduler_extender.md)
 
 ## How to
@@ -6,8 +6,8 @@ This is an example of [Kubernetes Scheduler Extender](https://github.com/kuberne
 ### 0. checkout the repo
 
 ```shell
-$ git clone git@github.com:everpeace/k8s-scheduler-extender-example.git
-$ cd k8s-scheduler-extender-example
+$ git clone git@github.com:everpeace-scheduler.git
+$ cd eeverpeace-scheduler
 $ git submodule update --init
 ```
 
